@@ -1,12 +1,15 @@
 ## Welcome to OrangePlace
 
 See my game flappy bird from here: https://github.com/orange541/Flappy-Bird-Javascript/
+Also please play the other games that I will submit.
+Thanks!
+:D
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contact Me
 
-### Markdown
+I have an active profile in Repl.it.
+To see my profile, go here: https://repl.it/@orange541
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for here.
+## Support Me
 
-# Support Me
 If you want to support me, then go to this link: https://github.com/orange541
