@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="images/bird.png">
+    <meta charset="UTF-8">
+    <title>Flappy Bird</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="game">
+        <div id="block"></div>
+        <div id="hole"></div>
+        <div id="character"></div>
+    </div>
+</body>
+<script src="script.js"></script>
+
+<script>
+    window.addEventListener("keydown", checkKeyPress, false);
+
+    function checkKeyPress(key){
+        if(key.keyCode == "32"){
+            jump();
+        }
+    }
+</script>
+</html>
